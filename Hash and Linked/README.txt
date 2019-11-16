@@ -1,0 +1,1 @@
+Here lies an implementation of a Hash Map and a Linked List. These are separate data structures, which read from a CSV file. The program will create the respective structures from the file, and then record how long it takes to fetch data.
